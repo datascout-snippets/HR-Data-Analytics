@@ -1,2 +1,3 @@
 # HR-Data-Analytics
-! [Main Dashboard](Analytics \Dashboard/dashboard.jpg)
+![Main Dashboard](./Analytics-Dashboard/dashboard.jpg)
+
